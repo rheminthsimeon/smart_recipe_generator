@@ -1,0 +1,501 @@
+cuisine,dish_name,ingredients,cooking_time_min,spice_level,calories
+Lebanese,Injera,"Chickpeas, Olive Oil, Tahini",51,8,268
+French,Baguette,"Spices, Meat, Vegetables",56,8,780
+Vietnamese,Feijoada,"Broth, Rice Noodles, Beef",174,0,762
+Moroccan,Dumpling,"Teff Flour, Vegetables, Lentils",31,5,682
+Italian,Dumpling,"Chickpeas, Olive Oil, Tahini",116,6,614
+Greek,Curry,"Tomatoes, Cheese, Olive Oil",36,2,413
+French,Feijoada,"Chickpeas, Olive Oil, Tahini",50,6,131
+Turkish,Baguette,"Corn, Meat, Chili",89,6,386
+Vietnamese,Hummus,"Spices, Meat, Vegetables",171,1,693
+Turkish,Paella,"Rice, Fish, Seaweed",169,6,142
+Thai,Pad Thai,"Eggplant, Potatoes, Cheese",98,0,716
+Vietnamese,Pizza,"Flour, Butter, Yeast",75,4,100
+Thai,Dumpling,"Beans, Rice, Pork",21,8,672
+Japanese,Pizza,"Beans, Rice, Pork",177,6,369
+Spanish,Hummus,"Rice, Fish, Seaweed",82,6,279
+Indian,Feijoada,"Rice, Saffron, Seafood",85,1,835
+Turkish,Curry,"Spices, Meat, Vegetables",99,7,617
+Indian,Injera,"Chickpeas, Olive Oil, Tahini",19,2,202
+Italian,Dumpling,"Rice, Fish, Seaweed",105,7,109
+Chinese,Moussaka,"Spices, Rice, Vegetables",29,2,682
+Ethiopian,Feijoada,"Rice, Vegetables, Egg",48,9,189
+Greek,Pad Thai,"Corn, Meat, Chili",69,6,325
+Korean,Kebab,"Chickpeas, Olive Oil, Tahini",75,1,769
+Moroccan,Pho,"Rice, Fish, Seaweed",74,3,839
+Moroccan,Dumpling,"Rice, Fish, Seaweed",133,5,225
+Moroccan,Baguette,"Corn, Meat, Chili",173,8,308
+Chinese,Taco,"Rice, Vegetables, Egg",161,4,196
+Ethiopian,Hummus,"Rice, Fish, Seaweed",164,8,173
+Chinese,Moussaka,"Beans, Rice, Pork",139,4,726
+Brazilian,Pho,"Corn, Meat, Chili",168,9,290
+Mexican,Pad Thai,"Eggplant, Potatoes, Cheese",66,7,781
+Thai,Pizza,"Broth, Rice Noodles, Beef",87,0,918
+Mexican,Moussaka,"Tomatoes, Cheese, Olive Oil",38,6,815
+Vietnamese,Baguette,"Spices, Rice, Vegetables",24,3,155
+French,Pad Thai,"Spices, Rice, Vegetables",21,4,819
+Japanese,Hummus,"Teff Flour, Vegetables, Lentils",110,5,652
+Ethiopian,Sushi,"Corn, Meat, Chili",165,4,131
+Turkish,Kebab,"Rice, Saffron, Seafood",93,0,626
+French,Pad Thai,"Lamb, Spices, Yogurt",134,8,673
+Moroccan,Sushi,"Broth, Rice Noodles, Beef",112,1,766
+Chinese,Taco,"Eggplant, Potatoes, Cheese",33,8,383
+Ethiopian,Feijoada,"Rice Noodles, Peanuts, Tofu",158,9,820
+Vietnamese,Moussaka,"Tomatoes, Cheese, Olive Oil",147,1,931
+Ethiopian,Paella,"Broth, Rice Noodles, Beef",119,8,593
+French,Hummus,"Corn, Meat, Chili",87,5,286
+Italian,Kebab,"Dough, Pork, Cabbage",110,8,597
+Turkish,Pad Thai,"Flour, Butter, Yeast",155,5,541
+Japanese,Feijoada,"Beans, Rice, Pork",151,5,229
+Korean,Curry,"Eggplant, Potatoes, Cheese",171,1,738
+Japanese,Feijoada,"Rice, Saffron, Seafood",137,7,391
+Indian,Moussaka,"Rice, Saffron, Seafood",67,2,213
+Greek,Pho,"Teff Flour, Vegetables, Lentils",85,6,298
+French,Paella,"Corn, Meat, Chili",159,4,112
+French,Injera,"Dough, Pork, Cabbage",45,2,370
+Japanese,Pizza,"Tomatoes, Cheese, Olive Oil",173,0,700
+Ethiopian,Injera,"Spices, Rice, Vegetables",31,7,314
+Japanese,Bibimbap,"Spices, Meat, Vegetables",136,2,543
+Turkish,Tagine,"Rice, Fish, Seaweed",89,1,889
+Greek,Kebab,"Corn, Meat, Chili",109,0,611
+Vietnamese,Sushi,"Eggplant, Potatoes, Cheese",105,3,546
+Lebanese,Pho,"Rice Noodles, Peanuts, Tofu",170,7,814
+Greek,Dumpling,"Corn, Meat, Chili",173,2,173
+Italian,Moussaka,"Eggplant, Potatoes, Cheese",157,0,636
+French,Taco,"Teff Flour, Vegetables, Lentils",27,3,200
+Italian,Injera,"Dough, Pork, Cabbage",47,8,275
+Indian,Tagine,"Rice, Saffron, Seafood",160,0,526
+Indian,Paella,"Flour, Butter, Yeast",118,1,216
+Lebanese,Sushi,"Rice, Saffron, Seafood",132,8,265
+Indian,Baguette,"Rice, Vegetables, Egg",153,1,140
+Spanish,Pho,"Flour, Butter, Yeast",158,2,528
+French,Injera,"Tomatoes, Cheese, Olive Oil",113,6,443
+Korean,Baguette,"Rice Noodles, Peanuts, Tofu",149,2,523
+Brazilian,Sushi,"Broth, Rice Noodles, Beef",153,8,465
+Ethiopian,Pho,"Beans, Rice, Pork",90,5,219
+Mexican,Hummus,"Spices, Rice, Vegetables",96,2,708
+Mexican,Hummus,"Rice, Saffron, Seafood",151,8,756
+Korean,Moussaka,"Eggplant, Potatoes, Cheese",70,0,827
+Italian,Pizza,"Rice, Vegetables, Egg",55,9,328
+Vietnamese,Kebab,"Rice, Vegetables, Egg",41,2,924
+Turkish,Bibimbap,"Beans, Rice, Pork",24,0,229
+Indian,Tagine,"Chickpeas, Olive Oil, Tahini",53,1,451
+Turkish,Curry,"Broth, Rice Noodles, Beef",154,7,988
+Moroccan,Pizza,"Eggplant, Potatoes, Cheese",178,6,417
+Turkish,Pad Thai,"Rice, Saffron, Seafood",63,1,748
+Mexican,Tagine,"Broth, Rice Noodles, Beef",53,1,935
+French,Tagine,"Flour, Butter, Yeast",107,8,436
+Mexican,Curry,"Rice, Saffron, Seafood",14,5,372
+Turkish,Injera,"Lamb, Spices, Yogurt",118,4,216
+Korean,Pho,"Lamb, Spices, Yogurt",36,9,917
+Brazilian,Sushi,"Dough, Pork, Cabbage",125,5,467
+Moroccan,Curry,"Broth, Rice Noodles, Beef",96,8,193
+Turkish,Injera,"Flour, Butter, Yeast",113,6,267
+Italian,Tagine,"Eggplant, Potatoes, Cheese",132,9,814
+Korean,Pad Thai,"Rice Noodles, Peanuts, Tofu",88,9,440
+Turkish,Baguette,"Flour, Butter, Yeast",52,8,760
+Turkish,Tagine,"Dough, Pork, Cabbage",106,3,794
+Lebanese,Dumpling,"Corn, Meat, Chili",40,1,251
+Mexican,Kebab,"Eggplant, Potatoes, Cheese",108,7,685
+Mexican,Baguette,"Lamb, Spices, Yogurt",26,3,976
+Italian,Hummus,"Spices, Rice, Vegetables",92,8,373
+Spanish,Paella,"Tomatoes, Cheese, Olive Oil",119,3,653
+Vietnamese,Taco,"Lamb, Spices, Yogurt",41,7,595
+Vietnamese,Dumpling,"Corn, Meat, Chili",177,8,823
+Korean,Hummus,"Rice Noodles, Peanuts, Tofu",150,8,200
+Brazilian,Moussaka,"Tomatoes, Cheese, Olive Oil",44,9,656
+Italian,Kebab,"Broth, Rice Noodles, Beef",142,3,181
+Ethiopian,Sushi,"Teff Flour, Vegetables, Lentils",38,0,628
+Spanish,Moussaka,"Dough, Pork, Cabbage",79,2,172
+Vietnamese,Kebab,"Rice Noodles, Peanuts, Tofu",162,8,113
+Thai,Curry,"Rice Noodles, Peanuts, Tofu",104,3,532
+Vietnamese,Kebab,"Teff Flour, Vegetables, Lentils",31,4,256
+Japanese,Curry,"Corn, Meat, Chili",78,6,834
+Chinese,Pizza,"Corn, Meat, Chili",98,4,231
+Mexican,Taco,"Tomatoes, Cheese, Olive Oil",81,3,437
+Chinese,Baguette,"Teff Flour, Vegetables, Lentils",138,1,503
+Japanese,Pizza,"Broth, Rice Noodles, Beef",96,1,475
+Italian,Pizza,"Teff Flour, Vegetables, Lentils",105,3,987
+Moroccan,Baguette,"Spices, Meat, Vegetables",84,9,658
+Moroccan,Taco,"Rice, Vegetables, Egg",176,9,206
+Greek,Kebab,"Rice, Saffron, Seafood",63,8,719
+Lebanese,Injera,"Teff Flour, Vegetables, Lentils",97,7,364
+Japanese,Tagine,"Dough, Pork, Cabbage",166,2,304
+Japanese,Dumpling,"Chickpeas, Olive Oil, Tahini",63,8,178
+Lebanese,Pho,"Rice, Fish, Seaweed",25,4,254
+Moroccan,Dumpling,"Dough, Pork, Cabbage",108,2,882
+Lebanese,Feijoada,"Spices, Rice, Vegetables",29,4,346
+Indian,Tagine,"Eggplant, Potatoes, Cheese",55,9,630
+Turkish,Pad Thai,"Lamb, Spices, Yogurt",136,3,957
+Mexican,Sushi,"Dough, Pork, Cabbage",67,7,637
+Spanish,Pad Thai,"Rice, Vegetables, Egg",120,4,828
+Brazilian,Paella,"Rice Noodles, Peanuts, Tofu",138,9,253
+Turkish,Pad Thai,"Rice, Vegetables, Egg",90,7,253
+Ethiopian,Dumpling,"Spices, Meat, Vegetables",166,8,785
+Mexican,Sushi,"Broth, Rice Noodles, Beef",93,3,191
+Indian,Curry,"Corn, Meat, Chili",79,6,532
+Indian,Dumpling,"Chickpeas, Olive Oil, Tahini",17,1,437
+Brazilian,Kebab,"Rice, Vegetables, Egg",38,5,579
+Thai,Hummus,"Corn, Meat, Chili",121,7,792
+Chinese,Pho,"Rice, Vegetables, Egg",170,6,230
+Turkish,Pad Thai,"Flour, Butter, Yeast",140,6,549
+Korean,Taco,"Spices, Meat, Vegetables",172,7,909
+Vietnamese,Sushi,"Rice, Fish, Seaweed",117,6,886
+Spanish,Pizza,"Rice, Fish, Seaweed",118,4,372
+Vietnamese,Feijoada,"Flour, Butter, Yeast",29,6,687
+Turkish,Pad Thai,"Broth, Rice Noodles, Beef",82,9,276
+Indian,Hummus,"Broth, Rice Noodles, Beef",176,2,795
+Turkish,Bibimbap,"Tomatoes, Cheese, Olive Oil",13,4,930
+French,Baguette,"Rice, Fish, Seaweed",28,6,742
+Chinese,Tagine,"Chickpeas, Olive Oil, Tahini",111,8,974
+Italian,Pad Thai,"Broth, Rice Noodles, Beef",150,1,148
+French,Tagine,"Tomatoes, Cheese, Olive Oil",150,3,666
+Spanish,Curry,"Beans, Rice, Pork",95,6,765
+Italian,Sushi,"Broth, Rice Noodles, Beef",61,0,454
+Moroccan,Moussaka,"Rice, Vegetables, Egg",120,1,811
+Italian,Baguette,"Rice, Fish, Seaweed",118,8,407
+Mexican,Feijoada,"Rice, Fish, Seaweed",95,9,967
+Lebanese,Kebab,"Teff Flour, Vegetables, Lentils",52,6,984
+Vietnamese,Curry,"Rice, Vegetables, Egg",51,9,729
+Mexican,Feijoada,"Broth, Rice Noodles, Beef",99,6,874
+Japanese,Kebab,"Lamb, Spices, Yogurt",124,5,145
+Ethiopian,Baguette,"Broth, Rice Noodles, Beef",35,2,401
+Greek,Feijoada,"Rice, Vegetables, Egg",160,9,967
+Moroccan,Dumpling,"Rice Noodles, Peanuts, Tofu",52,2,507
+Greek,Kebab,"Flour, Butter, Yeast",86,1,288
+Korean,Paella,"Dough, Pork, Cabbage",165,5,921
+Greek,Pad Thai,"Rice Noodles, Peanuts, Tofu",146,3,929
+Moroccan,Paella,"Rice, Vegetables, Egg",29,4,228
+French,Curry,"Teff Flour, Vegetables, Lentils",48,2,660
+Moroccan,Injera,"Corn, Meat, Chili",21,5,636
+Chinese,Dumpling,"Corn, Meat, Chili",20,2,365
+Japanese,Baguette,"Flour, Butter, Yeast",163,7,217
+Turkish,Taco,"Spices, Rice, Vegetables",51,8,563
+Indian,Pad Thai,"Chickpeas, Olive Oil, Tahini",164,3,243
+Korean,Moussaka,"Rice, Fish, Seaweed",20,8,541
+Turkish,Taco,"Lamb, Spices, Yogurt",47,6,299
+Japanese,Sushi,"Spices, Rice, Vegetables",107,2,256
+Korean,Pizza,"Corn, Meat, Chili",28,6,586
+Ethiopian,Curry,"Lamb, Spices, Yogurt",143,0,959
+Korean,Feijoada,"Flour, Butter, Yeast",125,2,233
+Japanese,Pad Thai,"Spices, Meat, Vegetables",122,5,247
+Thai,Dumpling,"Eggplant, Potatoes, Cheese",179,3,435
+Brazilian,Kebab,"Flour, Butter, Yeast",74,6,170
+Thai,Sushi,"Beans, Rice, Pork",108,2,332
+Vietnamese,Pho,"Flour, Butter, Yeast",81,0,433
+Moroccan,Taco,"Rice, Fish, Seaweed",61,8,910
+Ethiopian,Pad Thai,"Corn, Meat, Chili",127,5,765
+French,Paella,"Broth, Rice Noodles, Beef",129,7,189
+Greek,Pizza,"Corn, Meat, Chili",16,2,433
+Lebanese,Dumpling,"Corn, Meat, Chili",20,7,298
+Japanese,Sushi,"Eggplant, Potatoes, Cheese",112,1,260
+Korean,Dumpling,"Rice, Fish, Seaweed",70,3,637
+Lebanese,Hummus,"Rice, Saffron, Seafood",77,2,220
+Lebanese,Bibimbap,"Teff Flour, Vegetables, Lentils",162,9,400
+Japanese,Pho,"Rice, Fish, Seaweed",149,0,823
+Mexican,Tagine,"Spices, Meat, Vegetables",163,6,674
+Chinese,Hummus,"Corn, Meat, Chili",111,9,535
+Moroccan,Curry,"Lamb, Spices, Yogurt",119,1,167
+Spanish,Hummus,"Tomatoes, Cheese, Olive Oil",149,3,864
+Ethiopian,Tagine,"Beans, Rice, Pork",60,8,558
+Turkish,Baguette,"Dough, Pork, Cabbage",126,5,613
+Brazilian,Hummus,"Rice, Vegetables, Egg",174,7,497
+Thai,Taco,"Eggplant, Potatoes, Cheese",55,1,719
+Mexican,Pad Thai,"Rice, Fish, Seaweed",62,6,385
+Chinese,Bibimbap,"Spices, Rice, Vegetables",97,5,660
+Brazilian,Injera,"Rice, Vegetables, Egg",130,8,239
+French,Baguette,"Spices, Rice, Vegetables",22,6,829
+Turkish,Pad Thai,"Flour, Butter, Yeast",98,0,655
+Turkish,Tagine,"Rice Noodles, Peanuts, Tofu",134,7,880
+French,Curry,"Broth, Rice Noodles, Beef",127,9,689
+Chinese,Pho,"Rice, Fish, Seaweed",63,2,827
+Vietnamese,Paella,"Rice, Saffron, Seafood",125,1,993
+Indian,Pho,"Rice Noodles, Peanuts, Tofu",127,2,709
+Korean,Sushi,"Chickpeas, Olive Oil, Tahini",13,5,847
+French,Kebab,"Eggplant, Potatoes, Cheese",84,2,381
+Turkish,Dumpling,"Beans, Rice, Pork",58,9,760
+Mexican,Tagine,"Rice, Vegetables, Egg",16,4,915
+Brazilian,Kebab,"Rice, Fish, Seaweed",119,5,677
+French,Paella,"Chickpeas, Olive Oil, Tahini",131,7,845
+Thai,Moussaka,"Spices, Rice, Vegetables",20,6,556
+Spanish,Paella,"Broth, Rice Noodles, Beef",101,7,186
+French,Hummus,"Flour, Butter, Yeast",32,2,178
+Brazilian,Paella,"Beans, Rice, Pork",37,3,304
+Italian,Pho,"Rice, Vegetables, Egg",120,5,890
+Lebanese,Dumpling,"Dough, Pork, Cabbage",66,6,436
+Italian,Feijoada,"Eggplant, Potatoes, Cheese",35,8,353
+Ethiopian,Feijoada,"Rice, Fish, Seaweed",162,0,403
+Indian,Feijoada,"Dough, Pork, Cabbage",63,7,479
+Ethiopian,Sushi,"Chickpeas, Olive Oil, Tahini",38,7,229
+Brazilian,Bibimbap,"Corn, Meat, Chili",106,5,695
+Chinese,Baguette,"Spices, Rice, Vegetables",173,3,375
+Moroccan,Tagine,"Teff Flour, Vegetables, Lentils",23,2,798
+Korean,Hummus,"Beans, Rice, Pork",87,2,657
+Indian,Dumpling,"Rice, Vegetables, Egg",44,5,998
+Ethiopian,Curry,"Teff Flour, Vegetables, Lentils",39,7,282
+Brazilian,Kebab,"Chickpeas, Olive Oil, Tahini",101,6,367
+Greek,Curry,"Rice Noodles, Peanuts, Tofu",26,0,907
+Turkish,Baguette,"Broth, Rice Noodles, Beef",167,5,421
+Chinese,Feijoada,"Eggplant, Potatoes, Cheese",102,6,611
+Moroccan,Paella,"Rice Noodles, Peanuts, Tofu",88,6,711
+Korean,Bibimbap,"Corn, Meat, Chili",119,8,177
+Japanese,Moussaka,"Tomatoes, Cheese, Olive Oil",111,9,883
+Japanese,Pizza,"Rice, Fish, Seaweed",115,4,438
+Vietnamese,Sushi,"Lamb, Spices, Yogurt",56,0,773
+Vietnamese,Tagine,"Rice, Fish, Seaweed",73,1,655
+Mexican,Dumpling,"Tomatoes, Cheese, Olive Oil",175,3,608
+Vietnamese,Pho,"Chickpeas, Olive Oil, Tahini",73,4,337
+Vietnamese,Dumpling,"Chickpeas, Olive Oil, Tahini",96,8,233
+Ethiopian,Moussaka,"Eggplant, Potatoes, Cheese",16,0,291
+French,Moussaka,"Broth, Rice Noodles, Beef",31,2,455
+Brazilian,Pizza,"Dough, Pork, Cabbage",90,4,377
+Turkish,Feijoada,"Flour, Butter, Yeast",178,2,117
+Vietnamese,Kebab,"Tomatoes, Cheese, Olive Oil",83,3,623
+Vietnamese,Sushi,"Beans, Rice, Pork",147,2,279
+Thai,Curry,"Corn, Meat, Chili",144,3,222
+Chinese,Dumpling,"Rice, Saffron, Seafood",134,0,345
+Korean,Hummus,"Rice, Fish, Seaweed",59,7,833
+Spanish,Curry,"Dough, Pork, Cabbage",61,3,472
+Moroccan,Dumpling,"Spices, Rice, Vegetables",170,6,150
+Vietnamese,Curry,"Broth, Rice Noodles, Beef",10,1,170
+Lebanese,Moussaka,"Beans, Rice, Pork",171,1,579
+Vietnamese,Sushi,"Beans, Rice, Pork",13,5,659
+Moroccan,Baguette,"Broth, Rice Noodles, Beef",154,1,118
+Moroccan,Curry,"Rice, Vegetables, Egg",141,5,873
+Lebanese,Bibimbap,"Rice, Saffron, Seafood",13,1,183
+Vietnamese,Hummus,"Dough, Pork, Cabbage",10,3,254
+Thai,Sushi,"Rice, Vegetables, Egg",80,6,664
+Brazilian,Paella,"Rice, Saffron, Seafood",44,7,718
+Indian,Taco,"Rice Noodles, Peanuts, Tofu",17,2,456
+Korean,Curry,"Chickpeas, Olive Oil, Tahini",161,8,915
+Indian,Dumpling,"Beans, Rice, Pork",45,1,746
+Ethiopian,Tagine,"Rice, Saffron, Seafood",132,7,542
+Italian,Pad Thai,"Beans, Rice, Pork",52,7,168
+Spanish,Pho,"Beans, Rice, Pork",36,3,622
+Brazilian,Baguette,"Eggplant, Potatoes, Cheese",41,0,242
+Japanese,Curry,"Rice, Fish, Seaweed",87,0,291
+Ethiopian,Pizza,"Lamb, Spices, Yogurt",130,1,486
+Brazilian,Hummus,"Rice, Fish, Seaweed",155,8,477
+Indian,Feijoada,"Broth, Rice Noodles, Beef",165,1,680
+Turkish,Paella,"Tomatoes, Cheese, Olive Oil",166,1,634
+Vietnamese,Hummus,"Rice Noodles, Peanuts, Tofu",25,5,792
+Brazilian,Curry,"Chickpeas, Olive Oil, Tahini",108,6,392
+Turkish,Bibimbap,"Broth, Rice Noodles, Beef",56,6,108
+Mexican,Pizza,"Spices, Rice, Vegetables",40,8,370
+Indian,Dumpling,"Teff Flour, Vegetables, Lentils",13,5,486
+Turkish,Pad Thai,"Flour, Butter, Yeast",174,7,192
+Japanese,Hummus,"Chickpeas, Olive Oil, Tahini",26,5,628
+Moroccan,Pizza,"Rice, Saffron, Seafood",48,1,253
+Moroccan,Paella,"Rice Noodles, Peanuts, Tofu",57,0,504
+Lebanese,Bibimbap,"Rice Noodles, Peanuts, Tofu",48,4,939
+Korean,Kebab,"Flour, Butter, Yeast",141,8,248
+Italian,Bibimbap,"Teff Flour, Vegetables, Lentils",39,7,988
+Japanese,Baguette,"Dough, Pork, Cabbage",167,3,366
+Spanish,Dumpling,"Rice Noodles, Peanuts, Tofu",31,4,521
+Indian,Pad Thai,"Spices, Meat, Vegetables",75,4,939
+Chinese,Feijoada,"Flour, Butter, Yeast",117,5,717
+Thai,Pizza,"Rice, Fish, Seaweed",21,2,571
+Italian,Baguette,"Lamb, Spices, Yogurt",45,4,992
+Korean,Feijoada,"Dough, Pork, Cabbage",27,1,646
+Korean,Moussaka,"Teff Flour, Vegetables, Lentils",99,9,730
+Chinese,Taco,"Rice, Fish, Seaweed",10,0,625
+Lebanese,Bibimbap,"Broth, Rice Noodles, Beef",136,0,602
+Spanish,Pad Thai,"Flour, Butter, Yeast",99,9,113
+Japanese,Feijoada,"Rice, Saffron, Seafood",96,6,877
+Ethiopian,Dumpling,"Teff Flour, Vegetables, Lentils",99,1,751
+Lebanese,Pad Thai,"Dough, Pork, Cabbage",143,3,905
+Thai,Taco,"Lamb, Spices, Yogurt",79,4,463
+Thai,Moussaka,"Broth, Rice Noodles, Beef",53,6,218
+Brazilian,Tagine,"Spices, Meat, Vegetables",161,1,337
+Thai,Pad Thai,"Corn, Meat, Chili",95,5,645
+Moroccan,Curry,"Rice, Saffron, Seafood",28,0,268
+Greek,Dumpling,"Lamb, Spices, Yogurt",110,6,621
+Chinese,Taco,"Rice, Vegetables, Egg",155,8,733
+Moroccan,Pho,"Corn, Meat, Chili",104,4,756
+Korean,Tagine,"Eggplant, Potatoes, Cheese",110,4,834
+Vietnamese,Injera,"Rice, Saffron, Seafood",39,3,982
+Thai,Hummus,"Corn, Meat, Chili",179,2,868
+Spanish,Hummus,"Rice, Fish, Seaweed",42,8,879
+Ethiopian,Tagine,"Rice, Fish, Seaweed",21,4,970
+French,Moussaka,"Spices, Meat, Vegetables",127,7,615
+Lebanese,Curry,"Beans, Rice, Pork",103,8,496
+Korean,Taco,"Teff Flour, Vegetables, Lentils",164,4,965
+Moroccan,Taco,"Rice, Vegetables, Egg",176,9,205
+Korean,Tagine,"Teff Flour, Vegetables, Lentils",146,8,184
+Italian,Paella,"Spices, Meat, Vegetables",158,1,313
+Greek,Taco,"Chickpeas, Olive Oil, Tahini",85,8,220
+Japanese,Pho,"Broth, Rice Noodles, Beef",38,3,231
+Spanish,Moussaka,"Rice, Fish, Seaweed",170,5,949
+French,Taco,"Rice Noodles, Peanuts, Tofu",126,5,296
+Mexican,Pad Thai,"Lamb, Spices, Yogurt",24,5,118
+Greek,Pad Thai,"Corn, Meat, Chili",11,1,741
+Thai,Baguette,"Rice, Fish, Seaweed",126,6,111
+Turkish,Paella,"Tomatoes, Cheese, Olive Oil",27,5,180
+Korean,Moussaka,"Rice, Fish, Seaweed",12,0,429
+Japanese,Curry,"Tomatoes, Cheese, Olive Oil",144,1,965
+Lebanese,Sushi,"Flour, Butter, Yeast",175,6,873
+Thai,Tagine,"Rice, Saffron, Seafood",174,0,491
+Spanish,Feijoada,"Teff Flour, Vegetables, Lentils",170,0,736
+Indian,Moussaka,"Eggplant, Potatoes, Cheese",117,0,406
+Moroccan,Dumpling,"Flour, Butter, Yeast",104,7,366
+Brazilian,Curry,"Flour, Butter, Yeast",131,3,546
+Turkish,Feijoada,"Chickpeas, Olive Oil, Tahini",20,3,540
+Indian,Sushi,"Teff Flour, Vegetables, Lentils",77,1,994
+Turkish,Injera,"Spices, Rice, Vegetables",132,0,751
+Moroccan,Bibimbap,"Eggplant, Potatoes, Cheese",122,9,940
+Vietnamese,Pho,"Beans, Rice, Pork",107,8,101
+Greek,Pad Thai,"Broth, Rice Noodles, Beef",102,6,619
+Mexican,Paella,"Corn, Meat, Chili",31,3,861
+Japanese,Pad Thai,"Lamb, Spices, Yogurt",136,5,750
+Korean,Tagine,"Teff Flour, Vegetables, Lentils",143,1,735
+Italian,Feijoada,"Spices, Meat, Vegetables",179,6,408
+French,Taco,"Rice, Vegetables, Egg",34,1,839
+Greek,Paella,"Eggplant, Potatoes, Cheese",94,9,621
+Indian,Dumpling,"Rice, Fish, Seaweed",64,7,568
+Moroccan,Hummus,"Broth, Rice Noodles, Beef",153,7,311
+Greek,Taco,"Dough, Pork, Cabbage",104,0,211
+Turkish,Baguette,"Eggplant, Potatoes, Cheese",151,7,107
+Lebanese,Injera,"Rice Noodles, Peanuts, Tofu",176,1,903
+Spanish,Curry,"Spices, Rice, Vegetables",165,5,576
+Mexican,Feijoada,"Dough, Pork, Cabbage",128,0,973
+Vietnamese,Paella,"Teff Flour, Vegetables, Lentils",18,4,559
+Moroccan,Pad Thai,"Spices, Rice, Vegetables",159,6,352
+Indian,Kebab,"Flour, Butter, Yeast",169,9,625
+Thai,Bibimbap,"Beans, Rice, Pork",51,0,851
+Thai,Curry,"Spices, Rice, Vegetables",62,1,537
+Turkish,Pho,"Broth, Rice Noodles, Beef",83,6,853
+Greek,Pad Thai,"Rice Noodles, Peanuts, Tofu",48,5,953
+Korean,Dumpling,"Spices, Rice, Vegetables",131,2,760
+Turkish,Kebab,"Corn, Meat, Chili",24,9,335
+Indian,Hummus,"Beans, Rice, Pork",166,1,405
+Korean,Hummus,"Teff Flour, Vegetables, Lentils",132,9,577
+Lebanese,Tagine,"Dough, Pork, Cabbage",120,3,778
+Japanese,Pizza,"Rice Noodles, Peanuts, Tofu",140,2,119
+Spanish,Kebab,"Rice, Fish, Seaweed",92,6,315
+Korean,Sushi,"Teff Flour, Vegetables, Lentils",19,7,954
+Greek,Moussaka,"Teff Flour, Vegetables, Lentils",101,1,234
+Spanish,Curry,"Rice, Fish, Seaweed",38,9,228
+Chinese,Hummus,"Chickpeas, Olive Oil, Tahini",44,6,509
+Chinese,Pad Thai,"Flour, Butter, Yeast",15,7,521
+Mexican,Sushi,"Broth, Rice Noodles, Beef",149,5,393
+Mexican,Taco,"Teff Flour, Vegetables, Lentils",120,5,345
+Korean,Pho,"Flour, Butter, Yeast",47,9,800
+Spanish,Bibimbap,"Eggplant, Potatoes, Cheese",86,0,655
+Greek,Injera,"Corn, Meat, Chili",102,3,185
+Vietnamese,Baguette,"Spices, Meat, Vegetables",156,0,655
+Greek,Tagine,"Rice, Saffron, Seafood",76,3,941
+Moroccan,Dumpling,"Rice, Saffron, Seafood",145,1,474
+Brazilian,Injera,"Chickpeas, Olive Oil, Tahini",17,4,545
+Spanish,Feijoada,"Teff Flour, Vegetables, Lentils",131,9,477
+Greek,Kebab,"Chickpeas, Olive Oil, Tahini",93,8,489
+French,Hummus,"Flour, Butter, Yeast",141,9,756
+Vietnamese,Feijoada,"Tomatoes, Cheese, Olive Oil",94,2,150
+Mexican,Moussaka,"Rice, Vegetables, Egg",54,7,341
+Thai,Pizza,"Corn, Meat, Chili",145,2,393
+Turkish,Feijoada,"Broth, Rice Noodles, Beef",96,5,662
+Ethiopian,Bibimbap,"Teff Flour, Vegetables, Lentils",25,3,365
+Vietnamese,Hummus,"Spices, Rice, Vegetables",86,7,219
+Vietnamese,Injera,"Rice, Fish, Seaweed",18,5,811
+Spanish,Taco,"Chickpeas, Olive Oil, Tahini",69,7,347
+Brazilian,Tagine,"Broth, Rice Noodles, Beef",87,0,169
+Greek,Kebab,"Flour, Butter, Yeast",86,5,952
+Indian,Taco,"Flour, Butter, Yeast",80,0,156
+Indian,Dumpling,"Broth, Rice Noodles, Beef",24,0,481
+Brazilian,Feijoada,"Rice, Vegetables, Egg",80,7,138
+Italian,Baguette,"Rice, Saffron, Seafood",111,6,900
+Italian,Baguette,"Rice, Vegetables, Egg",178,2,542
+Lebanese,Feijoada,"Tomatoes, Cheese, Olive Oil",31,5,117
+Mexican,Sushi,"Broth, Rice Noodles, Beef",161,8,831
+Ethiopian,Curry,"Beans, Rice, Pork",122,6,924
+Ethiopian,Baguette,"Rice Noodles, Peanuts, Tofu",10,2,855
+Moroccan,Paella,"Chickpeas, Olive Oil, Tahini",19,5,451
+Spanish,Injera,"Beans, Rice, Pork",119,3,915
+Turkish,Baguette,"Spices, Meat, Vegetables",122,2,397
+Korean,Hummus,"Rice Noodles, Peanuts, Tofu",59,8,382
+Lebanese,Injera,"Eggplant, Potatoes, Cheese",21,9,685
+Mexican,Moussaka,"Flour, Butter, Yeast",98,1,209
+Greek,Moussaka,"Corn, Meat, Chili",163,0,279
+Lebanese,Moussaka,"Rice, Fish, Seaweed",121,1,643
+Japanese,Bibimbap,"Dough, Pork, Cabbage",87,6,845
+Indian,Baguette,"Rice Noodles, Peanuts, Tofu",178,9,893
+French,Bibimbap,"Rice, Saffron, Seafood",173,0,124
+Spanish,Bibimbap,"Chickpeas, Olive Oil, Tahini",130,5,942
+Vietnamese,Moussaka,"Rice, Saffron, Seafood",32,6,890
+French,Baguette,"Corn, Meat, Chili",143,8,837
+Mexican,Dumpling,"Rice Noodles, Peanuts, Tofu",34,7,156
+Italian,Dumpling,"Beans, Rice, Pork",27,5,279
+Brazilian,Sushi,"Rice, Saffron, Seafood",150,2,331
+Thai,Moussaka,"Chickpeas, Olive Oil, Tahini",52,7,993
+Moroccan,Dumpling,"Lamb, Spices, Yogurt",87,6,442
+Turkish,Kebab,"Rice, Fish, Seaweed",37,2,576
+Mexican,Tagine,"Rice Noodles, Peanuts, Tofu",155,8,898
+Greek,Baguette,"Eggplant, Potatoes, Cheese",68,1,675
+Thai,Injera,"Corn, Meat, Chili",72,2,554
+Korean,Kebab,"Spices, Rice, Vegetables",101,1,331
+Korean,Dumpling,"Broth, Rice Noodles, Beef",65,0,388
+Thai,Bibimbap,"Spices, Rice, Vegetables",164,3,312
+Japanese,Injera,"Corn, Meat, Chili",169,4,357
+Turkish,Moussaka,"Spices, Meat, Vegetables",120,5,629
+Brazilian,Feijoada,"Lamb, Spices, Yogurt",146,4,786
+Greek,Moussaka,"Eggplant, Potatoes, Cheese",77,0,328
+Mexican,Hummus,"Eggplant, Potatoes, Cheese",55,2,325
+Japanese,Taco,"Dough, Pork, Cabbage",76,0,695
+Mexican,Feijoada,"Spices, Rice, Vegetables",163,4,902
+Thai,Feijoada,"Rice, Fish, Seaweed",145,4,534
+Lebanese,Paella,"Rice, Fish, Seaweed",15,5,981
+Japanese,Injera,"Broth, Rice Noodles, Beef",33,7,857
+Chinese,Feijoada,"Tomatoes, Cheese, Olive Oil",103,9,501
+Mexican,Sushi,"Chickpeas, Olive Oil, Tahini",22,0,721
+Turkish,Moussaka,"Corn, Meat, Chili",34,3,865
+Spanish,Baguette,"Spices, Rice, Vegetables",157,9,187
+Chinese,Baguette,"Broth, Rice Noodles, Beef",127,0,683
+Moroccan,Sushi,"Rice, Fish, Seaweed",91,8,992
+Spanish,Pizza,"Broth, Rice Noodles, Beef",120,6,641
+Thai,Curry,"Broth, Rice Noodles, Beef",91,6,783
+Greek,Injera,"Rice, Fish, Seaweed",75,4,408
+Vietnamese,Hummus,"Spices, Meat, Vegetables",54,6,442
+Turkish,Bibimbap,"Lamb, Spices, Yogurt",123,1,535
+Vietnamese,Bibimbap,"Rice, Vegetables, Egg",72,3,276
+Japanese,Dumpling,"Spices, Meat, Vegetables",85,6,238
+Thai,Taco,"Chickpeas, Olive Oil, Tahini",123,2,293
+Spanish,Pho,"Eggplant, Potatoes, Cheese",120,1,285
+Korean,Feijoada,"Corn, Meat, Chili",156,9,317
+Brazilian,Pizza,"Eggplant, Potatoes, Cheese",44,1,263
+Moroccan,Hummus,"Eggplant, Potatoes, Cheese",62,0,260
+Brazilian,Pizza,"Spices, Rice, Vegetables",35,4,624
+Turkish,Curry,"Dough, Pork, Cabbage",23,5,907
+Japanese,Feijoada,"Lamb, Spices, Yogurt",127,5,700
+Indian,Pizza,"Flour, Butter, Yeast",54,8,935
+Japanese,Hummus,"Lamb, Spices, Yogurt",60,3,141
+Italian,Kebab,"Rice Noodles, Peanuts, Tofu",128,0,309
+Italian,Hummus,"Broth, Rice Noodles, Beef",160,5,840
+French,Hummus,"Rice, Fish, Seaweed",28,4,961
+Italian,Tagine,"Rice Noodles, Peanuts, Tofu",91,9,374
+Brazilian,Pizza,"Chickpeas, Olive Oil, Tahini",85,5,378
+Turkish,Pho,"Beans, Rice, Pork",101,2,350
+Ethiopian,Kebab,"Lamb, Spices, Yogurt",42,1,409
+Lebanese,Hummus,"Spices, Rice, Vegetables",156,5,819
+Thai,Pizza,"Spices, Rice, Vegetables",37,0,932
+Indian,Feijoada,"Broth, Rice Noodles, Beef",132,6,239
+Japanese,Moussaka,"Lamb, Spices, Yogurt",135,6,891
+Greek,Injera,"Rice, Vegetables, Egg",46,9,645
+Lebanese,Kebab,"Lamb, Spices, Yogurt",163,6,920
+Turkish,Injera,"Rice Noodles, Peanuts, Tofu",108,9,629
+Turkish,Pizza,"Chickpeas, Olive Oil, Tahini",107,0,156
+Thai,Tagine,"Spices, Meat, Vegetables",136,3,211
+Italian,Pho,"Spices, Rice, Vegetables",177,6,104
+Spanish,Kebab,"Lamb, Spices, Yogurt",89,8,509
+Lebanese,Paella,"Rice, Vegetables, Egg",47,4,513
+Vietnamese,Curry,"Rice Noodles, Peanuts, Tofu",86,1,281
+Italian,Paella,"Flour, Butter, Yeast",135,6,112
+Italian,Moussaka,"Rice, Fish, Seaweed",96,9,438
+Italian,Injera,"Eggplant, Potatoes, Cheese",63,0,896
+Vietnamese,Pizza,"Beans, Rice, Pork",159,6,358
+Moroccan,Taco,"Rice, Saffron, Seafood",25,5,189
+Korean,Curry,"Broth, Rice Noodles, Beef",37,6,715
+Greek,Paella,"Teff Flour, Vegetables, Lentils",172,9,990
+Korean,Sushi,"Dough, Pork, Cabbage",55,2,797
+Indian,Curry,"Spices, Meat, Vegetables",81,2,349
+Moroccan,Kebab,"Lamb, Spices, Yogurt",94,6,354
+Spanish,Hummus,"Rice Noodles, Peanuts, Tofu",35,1,687
+Chinese,Taco,"Rice, Saffron, Seafood",94,0,997
