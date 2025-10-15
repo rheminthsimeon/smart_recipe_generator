@@ -35,9 +35,9 @@ It’s designed as a base project for future AI integrations — where large lan
 | Frontend Framework | React |
 | Language | TypeScript |
 | Build Tool | Vite |
-| Styling | CSS / Tailwind (optional) |
+| Styling | CSS / Tailwind |
 | Data Handling | Local data (CSV / JSON) |
-| Package Manager | npm or yarn |
+| Package Manager | npm |
 
 ---
 
@@ -48,7 +48,7 @@ It’s designed as a base project for future AI integrations — where large lan
 Make sure you have the following installed:
 
 - Node.js (v16 or higher)  
-- npm or yarn  
+- npm 
 - Git  
 
 ### Installation
