@@ -58,11 +58,9 @@ Make sure you have the following installed:
 git clone https://github.com/rheminthsimeon/smart_recipe_generator.git
 cd smart_recipe_generator
 
-#Running locally
-npm run dev
-
 # Install dependencies
 npm install
-# or
-yarn install
+
+#Running locally
+npm run dev
 
