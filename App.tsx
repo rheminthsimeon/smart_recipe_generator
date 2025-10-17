@@ -7,7 +7,7 @@ import RecipeModal from './components/RecipeModal';
 import CameraModal from './components/CameraModal';
 import { generateRecipes } from './services/geminiService';
 import { Recipe, DietaryPreference, Difficulty } from './types';
-import { AVAILABLE_INGREDIENTS, DIETARY_PREFERENCES, DIFFICULTY_LEVELS, COOKING_TIMES } from './constants';
+import { AVAILABLE_INGREDIENTS, DIETARY_PREFERENCES, DIFFICULTY_LEVELS } from './constants';
 
 type ActiveTab = 'search' | 'favorites';
 
@@ -180,14 +180,11 @@ const App: React.FC = () => {
                                 type="range"
                                 min={15}
                                 max={120}
-                                step={15}
+                                step={1}
                                 value={cookingTime}
                                 onChange={e => setCookingTime(Number(e.target.value))}
                                 className="w-full h-2 bg-gray-200 rounded-lg appearance-none cursor-pointer accent-emerald-500"
                             />
-                            <div className="flex justify-between text-xs text-gray-500 mt-1">
-                                {COOKING_TIMES.map(t => <span key={t}>|</span>)}
-                            </div>
                         </div>
                     </div>
                     
